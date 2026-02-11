@@ -456,7 +456,3 @@ This package is modeled after `@google-cloud/nodejs-logging-winston` but adapted
 ## License
 
 Apache-2.0
-
-## Contributing
-
-Contributions are welcome! Please read the contributing guidelines before submitting a pull request.
